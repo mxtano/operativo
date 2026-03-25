@@ -27369,42 +27369,2418 @@
   },
   {
     "fecha": "2026-03-19",
-    "servicio": "AVISO DE PAGO",
-    "realizo": "RUBEN",
-    "tipo": "SERVICIO",
-    "mes": "2026-03-01",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-19",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "WENDY ANGELICA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
     "semana": ""
   },
   {
     "fecha": "2026-03-20",
-    "servicio": "AVISO DE PAGO",
-    "realizo": "RUBEN",
-    "tipo": "SERVICIO",
-    "mes": "2026-03-01",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "ENRIQUE RODRIGUEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-20",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "ENRIQUE RODRIGUEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-20",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "ENRIQUE RODRIGUEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
     "semana": ""
   },
   {
     "fecha": "2026-03-21",
-    "servicio": "AVISO DE PAGO",
-    "realizo": "RUBEN",
-    "tipo": "SERVICIO",
-    "mes": "2026-03-01",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARY CARMEN",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-22",
-    "servicio": "AVISO DE PAGO",
-    "realizo": "RUBEN",
-    "tipo": "SERVICIO",
-    "mes": "2026-03-01",
+    "fecha": "2026-03-21",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "ENRIQUE RODRIGUEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-21",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARIA ELENA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-21",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARIA ELENA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-21",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "GLADYZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
     "semana": ""
   },
   {
     "fecha": "2026-03-23",
-    "servicio": "AVISO DE PAGO",
-    "realizo": "RUBEN",
-    "tipo": "SERVICIO",
-    "mes": "2026-03-01",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "VANESSA PAMELA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SOFIA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "WENDY ANGELICA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "ENRIQUE RODRIGUEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARIA ELENA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "MARY CARMEN",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-07",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "WENDY ANGELICA",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-07",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "VANESSA PAMELA",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-09",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "GLADYZ",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-09",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "MARY CARMEN",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-10",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "MARY CARMEN",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-11",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "GAT",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-17",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "GAT",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-02-25",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "MARIA ELENA",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "TOMA CLANDESTINA",
+    "realizo": "LAURA MONICA",
+    "tipo": "TOMA CLANDESTINA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-02",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-03",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-04",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-05",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-06",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-15",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-23",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-24",
+    "servicio": "CAMBIOS DE TARIFA",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "CAMBIOS DE TARIFA",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-14",
+    "servicio": "VERIFICACION",
+    "realizo": "JAZMIN AVILA",
+    "tipo": "VERIFICACION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-09",
+    "servicio": "SE ENVIARON 4337 LIMITACION DE SERVICIO",
+    "realizo": "NOTIFICADORES EXTERNOS",
+    "tipo": "LIMITACION DE SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-10",
+    "servicio": "SE ENVIARON 3162 LIMITACION DE SERVICIO",
+    "realizo": "NOTIFICADORES EXTERNOS",
+    "tipo": "LIMITACION DE SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-11",
+    "servicio": "SE ENVIARON 3340 LIMITACION DE SERVICIO",
+    "realizo": "NOTIFICADORES EXTERNOS",
+    "tipo": "LIMITACION DE SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-12",
+    "servicio": "SE ENVIARON 3998 LIMITACION DE SERVICIO",
+    "realizo": "NOTIFICADORES EXTERNOS",
+    "tipo": "LIMITACION DE SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-13",
+    "servicio": "SE ENVIARON 4693 LIMITACION DE SERVICIO",
+    "realizo": "NOTIFICADORES EXTERNOS",
+    "tipo": "LIMITACION DE SERVICIO",
+    "mes": "",
     "semana": ""
   }
 ]
