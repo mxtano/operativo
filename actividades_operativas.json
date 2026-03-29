@@ -28774,5 +28774,197 @@
     "tipo": "SUSPENSION",
     "mes": "",
     "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "EL CID 1232",
+    "realizo": "PATRICIA, BRAYAN, ARON",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "EL POTRERO DOS 41",
+    "realizo": "ROXANA, JESUS, MAXIMINO, EMANEL GERONIMO, GRISELDA, IRVIN",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "Fracc. Andalucía (Tolca) 2862",
+    "realizo": "ROXANA, JESUS, MAXIMINO, EMANEL GERONIMO, GRISELDA, IRVIN, VIANEY, ANGEL A.  SEBASTIAN, JOSE A. HERMINIA, MISAEL",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "EL CHOPO 52",
+    "realizo": "LUIS, KEVIN, EDSON, VIRGINIA, RAMIRO, EMMANUEL S.",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "EL MANANTIAL 536",
+    "realizo": "LUIS, KEVIN, EDSON, VIRGINIA, RAMIRO, EMMANUEL S.",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "MOGOTES 86",
+    "realizo": "LUIS, KEVIN, EDSON, VIRGINIA, RAMIRO, EMMANUEL S.",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "TEPOJACO 31",
+    "realizo": "LUIS, KEVIN, EDSON, VIRGINIA, RAMIRO, EMMANUEL S.",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "FRACC. VISTA HERMOSA 632",
+    "realizo": "PATRICIA, BRAYAN, ARON",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": " PRIV. VALENCIA 440",
+    "realizo": "PATRICIA, BRAYAN, ARON",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "PRIV. SEGOVIA 285",
+    "realizo": "PATRICIA, BRAYAN, ARON",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "PRIV. ALCARAZ 418",
+    "realizo": "PATRICIA, BRAYAN, ARON",
+    "tipo": "AVISO DE PAGO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "INSTALACION DE MEDIDOR 1",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 8",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "VERIFICACION POR CAMBIO DE TARIFA 2",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "MOVIMIENTO DE CUADRO 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "RECONEXION 7",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "VANESSA PAMELA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SANDRA LOPEZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "GLADYZ",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "WENDY ANGELICA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
   }
 ]
