@@ -29630,5 +29630,109 @@
     "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "RECONEXION 5",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 3",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "LISTA DE MATERIALES 3",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "RECONEXION 16",
+    "realizo": "MATEO E IVAN",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-31",
+    "servicio": "",
+    "realizo": "",
+    "tipo": "",
+    "mes": "",
+    "semana": ""
   }
 ]
