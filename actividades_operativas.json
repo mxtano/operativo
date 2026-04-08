@@ -29672,66 +29672,354 @@
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "LISTA DE MATERIAL 4",
+    "realizo": "OSCAR, ANGEL Y JOSUE",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR 2",
+    "realizo": "OSCAR, ANGEL Y JOSUE",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 3",
+    "realizo": "OSCAR, ANGEL Y JOSUE",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 1",
+    "realizo": "OSCAR, ANGEL Y JOSUE",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "COLOCACION DE BYPASS 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "REPARACION DE FUGA 2",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   },
   {
-    "fecha": "2026-03-31",
-    "servicio": "",
-    "realizo": "",
-    "tipo": "",
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION DE DE FUNCION DE MEDIDOR 2",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION DE EXISTENCIA DE MEDIDOR 1",
+    "realizo": "MATEO  ",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR CONSUMOS ELEVADOS 1",
+    "realizo": "MATEO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "MATEO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR 3",
+    "realizo": "MATEO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "RECONEXION 2 ",
+    "realizo": "MATEO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 3",
+    "realizo": "MATEO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 3",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 2",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "REPARACION DE FUGA 2",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "RECONEXION 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "COLOCACION DE BYPASS 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 4",
+    "realizo": "MIGUEL Y FILIBERTO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 4",
+    "realizo": "MIGUEL Y FILIBERTO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "RECONEXION 4",
+    "realizo": "MIGUEL Y FILIBERTO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-01",
+    "servicio": "LISTA DE MATERIAL 1",
+    "realizo": "MIGUEL Y FILIBERTO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "CAMBIO DE LLAVE DE PASO 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION PARA CAMBIO DE TARIFA",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 3",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "SUSPENSION DE SERVICIO POR ADEUDO 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "LISTA DE MATERIALES 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "RECONEXION 8",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION DE EXISTENCIA DE MEDIDOR 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 2",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "RETIRO DE MEDIDOR DE PRUEBA 1",
+    "realizo": "ALFONSO Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "LISTA DE MATERIALES 2",
+    "realizo": "ALFONSO Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-06",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 2",
+    "realizo": "ALFONSO Y ANGEL ",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-07",
+    "servicio": "RECONEXION 4",
+    "realizo": "DANIEL  ",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-07",
+    "servicio": "REPARACION DE FUGA 2",
+    "realizo": "DANIEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-07",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO",
+    "realizo": "DANIEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-07",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR 3",
+    "realizo": "DANIEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-04-07",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 1",
+    "realizo": "DANIEL",
+    "tipo": "SERVICIO",
     "mes": "",
     "semana": ""
   }
